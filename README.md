@@ -22,8 +22,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 1.1.1 Roles assigned to the project and persons allocated
 Project manager - Cosmin Toma
+
 Product owner - Otilia Popescu
+
 Software developer - Bianca Rusu
+
 QA Engineer - Alexandra Ciobanu
 
 1.1.2 Entry criteria defined
@@ -105,4 +108,4 @@ A number of 5 total bugs were found, from which the priority is: 1 is high, 4 ar
 
 
 2 SQL section
-Created a database named 'orangeHRM' and a table named 'users' with all the columns needed to save data per specifications. Performed different queries inside the sql file: (Final Project/orangeHRM.sql)
+Created a database named 'orangeHRM' and a table named 'users' with all the columns needed to save data per specifications. Performed different queries inside the sql file: orangeHRM.sql
